@@ -1,10 +1,26 @@
-### Ayo, It's Ali Nazer! (aka. RAVEN.exe)
+### Ali "RAVEN.exe" Nazer (aka. Cuddly Raven)
 
-I enjoy coding as a hobby. Games, Modding, Applications or Webpages. Code is code for me.
+## Code
+- Passed Machine Learning & Deep Learning Specialization Courses by DeepLearning.AI
+- Passed Juniora MachineLearning Course, Grades 0 - 2
+- Competitor at 2nd Stage of National Artificial Intelligence Olympiad 2024-2025
+- Competitor at Juniora's CodeBattle #6 AI Tournament
+- Node.js Back-end experience
+- Several Front-end projects experience
 
-My main focus is on playing Games, for now. I'm extremely obsessed with osu! and VALORANT.
+## Esports
+- Valorant Semi-pro Player & Coach
+- Broadcasting production; providing HUDs & Overlays for live streams
+- Experience of Designing, and Managing city-scale Pro Circuits
+- Experience of LAN & Stage Management in some small CS2 tournaments
+- Experience of Online tournament Management in some small Valorant/CS2 tournaments
+- Experience of Commentating & Observing in small Valorant/CS2/osu! tournaments
 
-However, I wish to form a small group of indie developers in the future. But not a serious thing, tbh.
+## Game
+- VALORANT & CS2 Player 
+- Obsessed with osu!
+
+
 
 <!--
 **aL1NaZ4R/aL1NaZ4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
