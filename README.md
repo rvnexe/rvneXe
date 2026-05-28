@@ -1,4 +1,4 @@
-### Ali "RAVEN.exe" Nazer (aka. Cuddly Raven)
+## Ali "Cuddly Raven" Nazer (aka. raven.exe)
 
 ## Code
 - Passed Machine Learning & Deep Learning Specialization Courses by DeepLearning.AI
