@@ -1,6 +1,7 @@
 ## Ali "Cuddly Raven" Nazer (aka. raven.exe)
 
 ## Code
+### Website is up at: https://cuddly.ir/
 - Passed Machine Learning & Deep Learning Specialization Courses by DeepLearning.AI
 - Passed Juniora MachineLearning Course, Grades 0 - 2, [Certified by Quera](https://static.juniora.org/files/certificates/a839yvn1.png)
 - Competitor at 2nd Stage of National Artificial Intelligence Olympiad 2024-2025
