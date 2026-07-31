@@ -9,6 +9,11 @@
 - Node.js Back-end experience
 - Several Front-end projects experience
 
+## Art & Design
+- Digital artist
+- Vector graphics designer
+- HUD/UI/UX designer
+
 ## Esports
 - Valorant Semi-pro Player & Coach
 - Broadcasting production; providing HUDs & Overlays for live streams
