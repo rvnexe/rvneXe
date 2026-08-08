@@ -1,18 +1,17 @@
-## Ali "Cuddly Raven" Nazer (aka. raven.exe)
+<h1 align="center"> Ali "Cuddly Raven" Nazer (aka. raven.exe) <br><br> <img height="160" align="center" src="https://github-stats-extended.vercel.app/api?username=rvnexe&hide_rank=true&hide_title=true&show_icons=true&disable_animations=true&theme=jolly"/> <img height="160" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=rvnexe&exclude_repo=LambdaForces-HUD,randq&layout=normal&langs_count=3&disable_animations=true&theme=jolly&hide_title=true"/><br><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=2b2b2b&color=61DAFB"></h1>
+
 
 ## Code
 ### Website is up at: https://cuddly.ir/
+- Experienced in designing Node.js back-end systems.
+- Several full-stack projects with React.
+- Integrated Socket.io with React for real-time features like live updates.
 - Passed Machine Learning & Deep Learning Specialization Courses by DeepLearning.AI
-- Passed Juniora MachineLearning Course, Grades 0 - 2, [Certified by Quera](https://static.juniora.org/files/certificates/a839yvn1.png)
-- Competitor at 2nd Stage of National Artificial Intelligence Olympiad 2024-2025
-- Competitor at Juniora's CodeBattle #6 AI Tournament
-- Node.js Back-end experience
-- Several Front-end projects experience
 
 ## Art & Design
-- Digital artist
-- Vector graphics designer
-- HUD/UI/UX designer
+- Digital Artist, Concept Artist, Character Designer (Clip Studio Paint, Adobe Photoshop, Illustrator)
+- Vector Artist
+- HUD/UI/UX Designer, Interface Artist (Web & Responsive)
 
 ## Esports
 - Valorant Semi-pro Player & Coach
