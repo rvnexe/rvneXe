@@ -5,21 +5,21 @@
 ### Website is up at: https://cuddly.ir/
 - Experienced in designing Node.js back-end systems.
 - Several full-stack projects with React.
-- Integrated Socket.io with React for real-time features like live updates.
-- Passed Machine Learning & Deep Learning Specialization Courses by DeepLearning.AI
+- Integrated Socket.io with React for real-time live updates.
+- Passed Machine Learning & Deep Learning Specialization by DeepLearning.AI
 
 ## Art & Design
-- Digital Artist, Concept Artist, Character Designer (Clip Studio Paint, Adobe Photoshop, Illustrator)
-- Vector Artist
-- HUD/UI/UX Designer, Interface Artist (Web & Responsive)
+- Digital Artist, Concept Artist & Character Designer (Clip Studio Paint, Photoshop, Illustrator).
+- Vector Artist — scalable graphics for web & broadcast.
+- HUD/UI/UX Designer for web & responsive interfaces.
 
 ## Esports
 - Valorant Semi-pro Player & Coach
 - Broadcasting production; providing HUDs & Overlays for live streams
-- Experience of Designing, and Managing city-scale Pro Circuits
-- Experience of LAN & Stage Management in some small CS2 tournaments
-- Experience of Online tournament Management in some small Valorant/CS2 tournaments
-- Experience of Commentating & Observing in small Valorant/CS2/osu! tournaments
+- Designed and managed city-scale Pro Circuits.
+- LAN & Stage Management for CS2 tournaments.
+- Online tournament management for Valorant & CS2.
+- Observer for Valorant, CS2, and osu! tournaments.
 
 ## Game
 - VALORANT & CS2 Player 
