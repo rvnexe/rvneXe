@@ -1,8 +1,8 @@
 <h1 align="center"> Ali "Cuddly Raven" Nazer (aka. raven.exe) <br><br> <img height="160" align="center" src="https://github-stats-extended.vercel.app/api?username=rvnexe&hide_rank=true&hide_title=true&show_icons=true&disable_animations=true&theme=jolly&cache_seconds=40000"/> <img height="160" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=rvnexe&exclude_repo=LambdaForces-HUD,randq&layout=normal&langs_count=3&disable_animations=true&theme=jolly&hide_title=true&cache_seconds=40000"/><br><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=2b2b2b&color=61DAFB"></h1>
 
-
 ## Code
 ### Website is up at: https://cuddly.ir/
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=rvnexe&repo=rvnexe%2FRAVE-Valorant-Overlay&description_lines_count=1&theme=jolly)](https://github.com/rvnexe/RAVE-Valorant-Overlay)
 - Experienced in designing Node.js back-end systems.
 - Several full-stack projects with React.
 - Integrated Socket.io with React for real-time live updates.
